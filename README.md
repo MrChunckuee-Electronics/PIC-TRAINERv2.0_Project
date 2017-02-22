@@ -6,3 +6,13 @@ Todo los archivos disponibles para la creacion de la tarjeta entrenadora de PICs
 - Modulo de 8 Entradas o Salidas  
 - Módulos de radiofrecuencia de 434MHz (TLP434 y RLP434) 
 - Modulo puente H usando el L298
+
+***
+Puedes seguirme en:
+- [Blogspot](http://mrchunckuee.blogspot.com)
+- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [GitHub](https://github.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
+
