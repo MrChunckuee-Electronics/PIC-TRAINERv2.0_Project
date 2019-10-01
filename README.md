@@ -2,10 +2,10 @@
 ***
 Todo los archivos disponibles para la creacion de la tarjeta entrenadora de PICs, si deseas saber mas a detalle de cada modulo te invito a visitar [E&R by MrChuckuee](http://mrchunckuee.blogspot.mx/p/pic-trainer-v20.html)
 ***
-**Listado de material disponible:**
+**Modulos para PICs:**
 - Módulo para PIC18F25K22
 
-**Listado de material disponible:**
+**Modulos externos:**
 - PIC_T001: Módulo header para protoboard
 - PIC_T002: Módulo de 8 Entradas o Salidas  
 - PIC_T003: Módulos de radiofrecuencia de 434MHz (TLP434 y RLP434) 
