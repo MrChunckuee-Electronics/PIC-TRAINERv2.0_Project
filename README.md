@@ -13,6 +13,7 @@ Todo los archivos disponibles para la creacion de la tarjeta entrenadora de PICs
 - E04: Módulo puente H usando el L298
 - E05: Módulo display 7 segmentos
 - E06: Módulo LCD16x2
+- E07: Módulo GLCD128x64
 
 ***
 Puedes seguirme en:
