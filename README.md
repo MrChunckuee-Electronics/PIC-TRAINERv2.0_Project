@@ -4,7 +4,7 @@ Todo los archivos disponibles para la creacion de la tarjeta entrenadora de PICs
 ***
 **Modulos para PICs:**
 - U01: Módulo para PIC18F25K22
-- U02: Módulo para PIC18F26K22
+- U02: Módulo para PIC18F46K22
 
 **Modulos externos:**
 - E01: Módulo header para protoboard
